@@ -1,0 +1,19 @@
+{
+  "name": "fsbs-slp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^11.13.7",
+    "bitbox-sdk": "^5.1.1",
+    "commander": "^2.20.0",
+    "dotenv": "^7.0.0",
+    "slpjs": "^0.15.12"
+  }
+}
